@@ -1,1 +1,1 @@
-
+For all Hello Kitty lovers and haters alike, Kitty Paint is a whiteboard program that I built in Python/Pygame. Unique functionalities include bitmap stamps, music that plays throughout and various tools.
